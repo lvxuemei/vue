@@ -1,0 +1,110 @@
+{
+    "movieListTwo":[
+        {
+        "id":0,
+       "title":"海王",
+       "want":"160931人想看",
+       "data":"12月7日",
+       "sj":"108分钟",
+       "pingfen":"9.2",
+       "jq":"剧情",
+       "man":"段奕宏,余男",
+       "img":"https://p1.meituan.net/170.230/movie/b349982a1c2bbf01407696e7d95066cb580557.jpg"
+
+    },  {
+        "id":1,
+       "title":"人间·喜剧",
+       "want":"150609人想看",
+       "data":"12月7日",
+       "sj":"108分钟",
+       "pingfen":"9.2",
+       "jq":"喜剧",
+       "man":"开心麻花",
+       "img":"https://p1.meituan.net/170.230/movie/c7453592d38b7aff6a774a52732792cd3778866.jpg"
+    }, {
+        "id":2,
+       "title":"疯狂的外星人",
+       "want":"98273人想看",
+       "data":"2019年2月5日",
+       "sj":"128分钟",
+       "pingfen":"7.0",
+       "jq":"喜剧",
+       "man":"刘风,约翰尼·德普",
+       "img":"https://p1.meituan.net/170.230/movie/9cd36871e75c756f3ad175afa6452cf2177292.jpg"
+    }, {
+        "id":3,
+       "title":"飞驰人生",
+       "want":"93156人想看",
+       "data":"2019年2月5日",
+       "sj":"120分钟",
+       "pingfen":"8.2",
+       "jq":"动画,冒险",
+       "man":"安东尼·冈萨雷斯",
+       "img":"https://p0.meituan.net/170.230/movie/e5f0a55327d5be1caa9f110abcca23865841112.jpg"
+    },{
+        "id":4,
+       "title":"云南虫谷",
+       "want":"65597人想看",
+       "data":"12月9日",
+       "sj":"140分钟",
+       "pingfen":"6.0",
+       "jq":"冒险",
+       "man":"林柏宏,汪铎",
+       "img":"https://p1.meituan.net/170.230/movie/db6d90ee9ff6fd6646f59bac2a6e05371954398.jpg"
+    },{
+        "id":5,
+       "title":"武林怪兽",
+       "want":"64527人想看",
+       "data":"12月21日",
+       "sj":"110分钟",
+       "pingfen":"8.0",
+       "jq":"喜剧",
+       "man":"广濑铃,菅田将晖",
+       "img":"https://p0.meituan.net/170.230/movie/9b3c1b3a7729058950d08be30e9fffe0611181.jpg"
+    },{
+        "id":6,
+       "title":"营救汪星人",
+       "want":"61541人想看",
+       "data":"2019年1月11日",
+       "sj":"150分钟",
+       "pingfen":"8.0",
+       "jq":"喜剧",
+       "man":"杰森·克拉克",
+       "img":"https://p0.meituan.net/170.230/movie/b43d03c588374cc7bf678e9d4b0cbb20701307.jpg"
+    },{
+        "id":7,
+       "title":"龙猫",
+       "want":"54416人想看",
+       "data":"12月14日",
+       "sj":"120分钟",
+       "pingfen":"7.6",
+       "jq":"剧情",
+       "man":"文淇,周美君",
+       "img":"https://p0.meituan.net/170.230/movie/c304c687e287c7c2f9e22cf78257872d277201.jpg"
+    },{
+        "id":8,
+       "title":"神探蒲松龄",
+       "want":"48317人想看",
+       "data":"2019年2月5日",
+       "sj":"150分钟",
+       "pingfen":"7.6",
+       "jq":"剧情",
+       "man":"郑恺,张雨绮",
+       "img":"https://p0.meituan.net/170.230/movie/407c19f8097e0cc5ab27356b47865fed981837.jpg"
+    },
+    {
+        "id":9,
+       "title":"流浪地球",
+       "want":"46918人想看",
+       "data":"2019年2月5日",
+       "sj":"134分钟",
+       "pingfen":"7.6",
+       "jq":"剧情,悬疑",
+       "man":"肯尼思·布拉纳",
+       "img":"https://p1.meituan.net/170.230/movie/089376f7781f4b4ab02f3ce3f04d0ef43031593.jpg"
+    }
+
+
+
+]
+}

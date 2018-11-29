@@ -1,0 +1,23 @@
+{
+    "xiaochi":[
+        {
+            "id":0,
+            "img":"http://p0.meituan.net/440.0/movie/611687761408702b68cf40cf8f309cc1167592.jpg@388w_388h_2e",
+            "msg":"46oz爆米花1桶+16oz可乐2杯",
+            "qian":"￥31.2",
+            "yishou":"6409"
+        },  {
+            "id":1,
+            "img":"//p0.meituan.net/440.0/movie/2405b900ad71cde8f33d846fe95c75d3148994.jpg@388w_388h_2e",
+            "msg":"12oz可乐1杯+32oz爆米花1桶",
+            "qian":"￥16.8",
+            "yishou":"8842"
+        }, {
+            "id":2,
+            "img":"//p0.meituan.net/440.0/deal/894f5d64b21d95c6c5d2750aabfadd7666384.jpg",
+            "msg":"2D电影票1张，可观看2D/3D/巨幕厅，提供免费WiFi",
+            "qian":"￥25.5",
+            "yishou":"134"
+        }
+    ]
+}

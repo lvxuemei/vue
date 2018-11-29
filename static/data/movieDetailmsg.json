@@ -1,0 +1,2454 @@
+{
+    "movieMsg":[
+        {
+            "id":248075,
+            "nm": "追捕",
+            "sc": 7.5,
+            "ver": "2D",
+            "rt": "本周五上映",
+            "cat": "动作,犯罪",
+            "data":"中国大陆/108分钟",
+            "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+            "man":[
+                {
+            "id":0,
+            "name":"张宇",
+            "shiyan":"胡广生",
+            "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+            },
+            {
+                "id":1,
+                "name":"陈建斌",
+                "shiyan":"那先勇",
+                "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+            },{
+                "id":2,
+                "name":"任素汐",
+                "shiyan":"马嘉祺",
+                "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+            },{
+                "id":3,
+                "name":"潘斌龙",
+                "shiyan":"李海根",
+                "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+            },{
+                "id":4,
+                "name":"九孔",
+                "shiyan":"王顺才",
+                "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+            },{
+                "id":5,
+                "name":"马吟吟",
+                "shiyan":"张红霞",
+                "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+            },{
+                "id":6,
+                "name":"宁怀宇",
+                "shiyan":"高翔",
+                "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+            },{
+                "id":7,
+                "name":"程怡",
+                "shiyan":"刘文红",
+                "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+            },{
+                "id":8,
+                "name":"王建辉",
+                "shiyan":"高明",
+                "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+            },{
+                "id":9,
+                "name":"邓恩熙",
+                "shiyan":"马依依",
+                "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+            }
+        
+        ],
+            "bg":"./static/img/1.png",
+            "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+             "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+            "img":"http://p0.meituan.net/165.220/movie/7797d45caf40fcfcdc0f88378850e2441016690.jpg"
+    },   {
+        "id":341195,
+        "nm": "正义联盟",
+        "sc": 8.6,
+        "ver":  "3D/IMAX 3D/中国巨幕/全景声",
+        "rt": "2017-11-17上映",
+        "cat": "动作,冒险,科幻",
+        "data":"中国大陆/138分钟",
+        "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+        "man":[
+            {
+        "id":0,
+        "name":"张宇",
+        "shiyan":"胡广生",
+        "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+        },
+        {
+            "id":1,
+            "name":"陈建斌",
+            "shiyan":"那先勇",
+            "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+        },{
+            "id":2,
+            "name":"任素汐",
+            "shiyan":"马嘉祺",
+            "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+        },{
+            "id":3,
+            "name":"潘斌龙",
+            "shiyan":"李海根",
+            "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+        },{
+            "id":4,
+            "name":"九孔",
+            "shiyan":"王顺才",
+            "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+        },{
+            "id":5,
+            "name":"马吟吟",
+            "shiyan":"张红霞",
+            "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+        },{
+            "id":6,
+            "name":"宁怀宇",
+            "shiyan":"高翔",
+            "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+        },{
+            "id":7,
+            "name":"程怡",
+            "shiyan":"刘文红",
+            "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+        },{
+            "id":8,
+            "name":"王建辉",
+            "shiyan":"高明",
+            "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+        },{
+            "id":9,
+            "name":"邓恩熙",
+            "shiyan":"马依依",
+            "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+        }
+    
+    ],
+        "bg":"./static/img/2.png",
+        "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+        "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+         "img":"http://p1.meituan.net/165.220/movie/b9395cd202a461303cf06cea89292071556090.png"
+},   {
+    "id":1196171,
+    "nm": "引爆者",
+    "sc": 8.1,
+    "ver":  "2D/中国巨幕",
+    "rt": "本周五上映",
+    "cat": "动作,犯罪",
+    "data":"中国大陆/120分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/3.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/b0463d95e071532a4c5cd4eb4e8488631018469.jpg"
+},   {
+    "id":342068,
+    "nm": "寻梦环游记",
+    "sc": 9.6,
+    "ver":  "2D/3D",
+    "rt": "本周五上映",
+    "cat": "动画,冒险,家庭",
+    "data":"中国大陆/150分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/4.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/4ba0ebccc0e3115911bfecdcfbbafa1a5114683.jpg"
+},  {
+    "id":1190680,
+    "nm": "推理笔记",
+    "sc": 7.4,
+    "ver":  "2D",
+    "rt": "本周五上映",
+    "cat": "剧情,悬疑",
+    "data":"中国大陆/145分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/5.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/fe0224d3bde17520754f58f956232f68534526.png"
+},{
+    "id":342362,
+    "nm": "相声大电影之我要幸福",
+    "sc": 7.4,
+    "ver":  "2D",
+    "rt": "下周五上映",
+    "cat": "剧情,喜剧",
+    "data":"中国大陆/115分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/6.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/2a781edb2544c60182feac6fe8b23f27275081.jpg"
+},{
+    "id":1198813,
+    "nm": "烟花",
+    "sc": 7.4,
+    "ver":  "2D",
+    "rt": "下周五上映",
+    "cat": "爱情,动画,奇幻",
+    "data":"中国大陆/120分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/7.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/3859caea55aa28b7a0414f88bd2b8f21702211.jpg"
+},{
+    "id":342276,
+    "nm": "刺杀盖世太保",
+    "sc": 7.6,
+    "ver":  "2D",
+    "rt": "本周五上映",
+    "cat": "剧情,战争,历史",
+    "data":"中国大陆/125分钟",
+    "bg":"./static/img/8.png",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/c66bef60115f204d1385d93027979c9e5057446.jpg"
+},{
+    "id":1208113,
+    "nm": "嘉年华",
+    "sc": 8.7,
+    "ver":  "2D",
+    "rt": "本周五上映",
+    "cat": "剧情,悬疑",
+    "data":"中国大陆/145分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/9.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/6dc90ebc7b3b740f6242c55ef0ee4961815296.png"
+},{
+    "id":246019,
+    "nm": "降魔传",
+    "sc": 6.8,
+    "ver":  "2D/3D",
+    "rt": "2017-11-17上映",
+    "cat": "喜剧,奇幻",
+    "data":"中国大陆/105分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/10.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/9c80c528f3cd023472f2fec77671211b1021404.jpg"
+},{
+    "id":1133164,
+    "nm": "七月半3：灵触第七感",
+    "sc": 4.5,
+    "ver":  "2D/3D",
+    "rt": "2017-11-17上映",
+    "cat": "恐怖",
+    "data":"中国大陆/55分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/11.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/29e0754e8d5e4f4edf6375a9c2198db3364727.jpg"
+},{
+    "id":344422,
+    "nm": "东方快车谋杀案",
+    "sc": 8.2,
+    "ver":  "2D",
+    "rt": "2017-11-10上映",
+    "cat": "剧情,悬疑,犯罪",
+    "data":"中国大陆/130分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/12.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/ce979de334b1b6229ba125b4a31f5ce1650096.png"
+},{
+    "id":346625,
+    "nm": "至暗时刻",
+    "sc": 8.0,
+    "ver":  "2D",
+    "rt": "下周五上映",
+    "cat": "剧情,历史,传记",
+    "data":"中国大陆/132分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/13.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/6617ca11895da44065e9bcf378d0f62c252496.jpg"
+},{
+    "id":1170264,
+    "nm": "芳华",
+    "sc": 8.0,
+    "ver":  "2D/中国巨幕",
+    "rt": "2017-12-15上映",
+    "cat": "剧情,爱情,战争",
+    "data":"中国大陆/130分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/14.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/00c8f4268808b89ff4adb667af7e58651038010.jpg"
+},{
+    "id":672281,
+    "nm": "这就是命",
+    "sc": 8.0,
+    "ver":  "2D/中国巨幕",
+    "rt": "下周五上映",
+    "cat": "喜剧",
+    "data":"中国大陆/120分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/15.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/e4939923185c102b559c369d5db08fa1778605.jpg"
+},{
+    "id":249894,
+    "nm": "雷神3：诸神黄昏",
+    "sc": 8.0,
+    "ver":  "3D/IMAX 3D/中国巨幕/全景声",
+    "rt": "2017-11-03上映",
+    "cat": "动作,冒险,奇幻",
+    "data":"中国大陆/125分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/16.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/579a0919e926a80ad14c717c8d8a8394259181.jpg"
+},{
+    "id":1199242,
+    "nm": "垫底联盟",
+    "sc": 8.0,
+    "ver":  "3D/IMAX 3D/中国巨幕/全景声",
+    "rt": "下周二上映",
+    "cat": "剧情,喜剧,运动",
+    "data":"中国大陆/110分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/17.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/73509084e3d0472c48cc1e9e1edecc61498155.jpg"
+},{
+    "id":346511,
+    "nm": "暴雪将至",
+    "sc": 6.9,
+    "ver":  "2D",
+    "rt": "2017-11-17上映",
+    "cat": "剧情,悬疑,犯罪",
+    "data":"中国大陆/130分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/18.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/c73c3b0511b40f083845445f1099a0a8958380.jpg"
+},{
+    "id":438338,
+    "nm": "维京:王者之战",
+    "sc": 6.9,
+    "ver":  "2D",
+    "rt": "2017-12-01 下周五上映",
+    "cat": "动作,战争",
+    "data":"中国大陆/130分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/19.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/533ff887dcce94bd82b2e9fa40a4ca892152360.jpg"
+},{
+    "id":246131,
+    "nm": "泡菜",
+    "sc": 7.2,
+    "ver":  "2D",
+    "rt": "2017-12-01 下周五上映",
+    "cat": "剧情",
+    "data":"中国大陆/130分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/20.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/cd1d39dad3da193e6f980981956c8a2e218579.jpg"
+},{
+    "id":1211004,
+    "nm": "一路绽放",
+    "sc": 7.0,
+    "ver":  "2D",
+    "rt": "2017-12-01 下周五上映",
+    "cat": "剧情",
+    "data":"中国大陆/100分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/21.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/e6112778e12a47fb358d1dbf92ba857d950271.jpg"
+},{
+    "id":1211081,
+    "nm": "炸裂青春",
+    "sc": 7.0,
+    "ver":  "2D",
+    "rt": "2017-12-02",
+    "cat": "剧情,喜剧",
+    "data":"中国大陆/110分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/22.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/04983eedaba9439854fa3ba2eba99a92331638.png"
+},{
+    "id":1198214,
+    "nm": "羞羞的铁拳",
+    "sc": 9.1,
+    "ver":  "2D/IMAX 2D/中国巨幕/全景声",
+    "rt": "2017-09-30上映",
+    "cat": "喜剧,爱情",
+    "data":"中国大陆/130分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/23.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/04983eedaba9439854fa3ba2eba99a92331638.png"
+},{
+    "id":618704,
+    "nm": "七十七天",
+    "sc": 8.6,
+    "ver":  "2D/IMAX 2D/中国巨幕/全景声",
+    "rt": "2017-11-03上映",
+    "cat": "剧情,冒险",
+    "data":"中国大陆/135分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/24.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/dd015fae6c6e85fb90adcd37af038a60382225.jpg"
+},{
+    "id":1198177,
+    "nm": "缝纫机乐队",
+    "sc": 9.3,
+    "ver":  "2D/中国巨幕",
+    "rt": "2017-09-29上映",
+    "cat": "剧情,喜剧,音乐",
+    "data":"中国大陆/145分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/25.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/cff7012c0cc944b27c9bba352a785e8e358408.jpg"
+},{
+    "id":617007,
+    "nm": "精灵宝可梦",
+    "sc": 8.4,
+    "ver":  "2D/中国巨幕",
+    "rt": "2017-11-11上映",
+    "cat": "动画,冒险,奇幻",
+    "data":"中国大陆/155分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/26.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/b17171351fea5d297a21eaf15e50c476368269.jpg"
+},{
+    "id":1208145,
+    "nm": "笔仙咒怨",
+    "sc": 8.4,
+    "ver":  "2D/中国巨幕",
+    "rt": "2017-11-11上映",
+    "cat": "惊悚,悬疑",
+    "data":"中国大陆/155分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/27.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/26a1de4ab6a424165ecdb343e429b1ae1014110.jpg"
+},{
+    "id":880690,
+    "nm": "我的爸爸是森林之王",
+    "sc": 9.1,
+    "ver":  "2D/中国巨幕",
+    "rt": "2017-10-14上映",
+    "cat": "喜剧,动画疑",
+    "data":"中国大陆/155分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/28.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/5fa96b6dfef654fabab85e600cda14392032510.jpg"
+},{
+    "id":338402,
+    "nm": "全球风暴",
+    "sc": 9.1,
+    "ver":  "2D/3D/IMAX 3D/中国巨幕",
+    "rt": "2017-10-27上映",
+    "cat": "动作,惊悚,灾难",
+    "data":"中国大陆/155分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/29.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/ceca5272db49154554f96829886f175a4555828.jpg"
+},{
+    "id":313,
+    "nm": "英雄本色",
+    "sc": 9.1,
+    "ver":  "2D/中国巨幕",
+    "rt": "2017-11-17上映",
+    "cat": "剧情,动作,犯罪",
+    "data":"中国大陆/125分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/30.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/5102b3f7261caa09c1c9b1212f09cc1f461902.png"
+},{
+    "id":248268,
+    "nm": "恐袭波士顿",
+    "sc": 8.4,
+    "ver":  "2D/中国巨幕",
+    "rt": "2017-11-17上映",
+    "cat": "剧情,犯罪",
+    "data":"中国大陆/140分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/31.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/61c672b7bfef63e41ca5796f3a36689f1048501.jpg"
+},{
+    "id":337727,
+    "nm": "女巫斗恶龙",
+    "sc": 8.4,
+    "ver":  "2D/中国巨幕",
+    "rt": "本周五上映",
+    "cat": "冒险,奇幻",
+    "data":"中国大陆/140分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/32.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/6a483f220c03325fe276e8fdf0e87e8c708224.jpg"
+},{
+    "id":1204596,
+    "nm": "天才枪手",
+    "sc": 8.8,
+    "ver":  "2D/IMAX 2D",
+    "rt": "2017-10-13上映",
+    "cat": "剧情,悬疑,犯罪",
+    "data":"中国大陆/120分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/33.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/385a6d22c2f1ed563aa58594d56cee39955568.jpg"
+},{
+    "id":635848,
+    "nm": "深宫怨灵",
+    "sc": 3.6,
+    "ver":  "2D/IMAX 2D",
+    "rt": "2017-11-17上映",
+    "cat": "恐怖,惊悚,悬疑",
+    "data":"中国大陆/120分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/34.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/55d8dd7bc72dd37eb6a8278c3d01596c999560.jpg"
+},{
+    "id":343476,
+    "nm": "不成问题的问题",
+    "sc": 8.1,
+    "ver":  "2D/IMAX 2D",
+    "rt": "本周二上映",
+    "cat": "剧情",
+    "data":"中国大陆/105分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/35.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p1.meituan.net/165.220/movie/79bf2a025eee06a105d6a09376770e181364107.jpg"
+},{
+    "id":246503,
+    "nm": "灿烂这一刻",
+    "sc": 8.1,
+    "ver":  "2D/IMAX 2D",
+    "rt": "本周二上映",
+    "cat": "剧情,家庭",
+    "data":"中国大陆/105分钟",
+    "xiangqing":"在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的残毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。",
+    "man":[
+        {
+    "id":0,
+    "name":"张宇",
+    "shiyan":"胡广生",
+    "img":"http://p0.meituan.net/moviemachine/8546b949d6176d3a175ccdcf9f01cdca196614.jpg@130w_180h.webp"
+    },
+    {
+        "id":1,
+        "name":"陈建斌",
+        "shiyan":"那先勇",
+        "img":"http://p0.meituan.net/movie/2cd5d02a62ca3f9b006c20851124fad7104530.jpg@130w_180h.webp"
+    },{
+        "id":2,
+        "name":"任素汐",
+        "shiyan":"马嘉祺",
+        "img":"http://p1.meituan.net/movie/620f9084e8279e9abef3871bcbb3e92e33558.jpg@130w_180h.webp"
+    },{
+        "id":3,
+        "name":"潘斌龙",
+        "shiyan":"李海根",
+        "img":"http://p0.meituan.net/movie/3c3222256918b7b7e73446866f96b83a165283.jpg@130w_180h.webp"
+    },{
+        "id":4,
+        "name":"九孔",
+        "shiyan":"王顺才",
+        "img":"http://p0.meituan.net/movie/afdbceb1e9e78dd2c95da63cc35f77c032816.jpg@130w_180h.webp"
+    },{
+        "id":5,
+        "name":"马吟吟",
+        "shiyan":"张红霞",
+        "img":"//p0.meituan.net/moviemachine/93f8c08551630b6725350887551e5ff7179544.jpg@130w_180h.webp"
+    },{
+        "id":6,
+        "name":"宁怀宇",
+        "shiyan":"高翔",
+        "img":"//p0.meituan.net/moviemachine/2d09c222b1384f7a678b97861e381f36132467.jpg@130w_180h.webp"
+    },{
+        "id":7,
+        "name":"程怡",
+        "shiyan":"刘文红",
+        "img":"//p0.meituan.net/moviemachine/69f54e7fd24745dd1e9fa3e3cd033c21136407.jpg@130w_180h.webp"
+    },{
+        "id":8,
+        "name":"王建辉",
+        "shiyan":"高明",
+        "img":"//p0.meituan.net/moviemachine/495bd2bde1beacce28a88a4d09774d1f47931.jpg@130w_180h.webp"
+    },{
+        "id":9,
+        "name":"邓恩熙",
+        "shiyan":"马依依",
+        "img":"//p1.meituan.net/movie/e095d103f29b0a74dc8e878f064b442f48199.jpg@130w_180h.webp"
+    }
+
+],
+    "bg":"./static/img/36.png",
+    "zx":"//p0.meituan.net/movie/da500f6b3d6e876e7fb62fa5cbea7f5f463496.jpg@200w_150h_1e_1c.webp",
+    "zxxx":"《无名之辈》曝兄妹诀别版特辑，陈建斌任素汐隔门飙戏看哭观众",
+     "img":"http://p0.meituan.net/165.220/movie/8e82fa6929389af6a01796df40650527256091.jpg"
+}
+
+]
+}
